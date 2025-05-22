@@ -1,0 +1,122 @@
+[
+  {
+    "id": "tip_001", "category": "ppp_usage",
+    "text": "Use 'list_projects' to see all your hunting grounds before diving in!"
+  },
+  {
+    "id": "tip_002", "category": "ppp_usage",
+    "text": "The 'To-Do List' is your personal scratch post for tasks. Keep it sharp and up-to-date!"
+  },
+  {
+    "id": "tip_003", "category": "cybersec",
+    "text": "Always verify your targets, like a cat ensuring it's pouncing on a mouse, not a dust bunny."
+  },
+  {
+    "id": "tip_004", "category": "ppp_usage",
+    "text": "The 'log_action' command is purr-fect for manually noting important offline discoveries or thoughts."
+  },
+  {
+    "id": "tip_005", "category": "cybersec",
+    "text": "Strong, unique passwords are like sturdy cat carriers: essential for keeping your digital treasures safe!"
+  },
+  {
+    "id": "tip_006", "category": "ppp_usage",
+    "text": "Regularly 'view_log' to keep an eye on all automated and manual cat-tivities in your current project."
+  },
+  {
+    "id": "tip_007", "category": "cybersec",
+    "text": "Be wary of unsolicited attachments or links, they might be Trojan horses disguised as irresistible catnip."
+  },
+  {
+    "id": "tip_008", "category": "ppp_usage",
+    "text": "Use descriptive names for your findings. A clear title is better than a confused meow later on."
+  },
+  {
+    "id": "tip_009", "category": "cybersec",
+    "text": "Patch your systems! Leaving vulnerabilities open is like leaving the cat flap unlocked for digital burglars."
+  },
+  {
+    "id": "tip_010", "category": "ppp_usage",
+    "text": "The 'Asset Tracker' helps you map out your digital territory and all its interesting inhabitants (services!)."
+  },
+  {
+    "id": "tip_011", "category": "cybersec",
+    "text": "Social engineering often preys on curiosity. Don't let your inner cat click on suspicious links without thinking!"
+  },
+  {
+    "id": "tip_012", "category": "ppp_usage",
+    "text": "Link your findings to assets, plugins, and to-dos to build a complete purr-icture of your security engagement."
+  },
+  {
+    "id": "tip_013", "category": "cybersec",
+    "text": "Enable Multi-Factor Authentication (MFA) wherever possible. It's like having an extra guard dog... or a very alert cat!"
+  },
+  {
+    "id": "tip_014", "category": "ppp_usage",
+    "text": "The 'query' command is your digital cat sense for sniffing out keywords and patterns in your collected data files."
+  },
+  {
+    "id": "tip_015", "category": "cybersec",
+    "text": "Regular data backups are your extra lives. Don't be a one-life cat in the often perilous digital world!"
+  },
+  {
+    "id": "tip_016", "category": "ppp_usage",
+    "text": "The 'General Findings' tracker is your central clue collector. Every little whisker of information counts towards the bigger picture."
+  },
+  {
+    "id": "tip_017", "category": "cybersec",
+    "text": "Clearly understand the scope of your engagement. Don't go chasing laser dots outside the designated play area."
+  },
+  {
+    "id": "tip_018", "category": "ppp_usage",
+    "text": "Customize your workspace with 'set_theme <theme_name>' to make your PPP experience uniquely yours and more enjoyable!"
+  },
+  {
+    "id": "tip_019", "category": "cybersec",
+    "text": "Network segmentation is like giving each cat its own room with its own toys. It limits the spread if one gets into digital trouble."
+  },
+  {
+    "id": "tip_020", "category": "ppp_usage",
+    "text": "Explore the 'Meow-tasploit' vision by thinking how your custom scripts and tools can be purr-fectly integrated into the framework."
+  },
+  {
+    "id": "tip_021", "category": "fun_fact",
+    "text": "Did you know the first webcam was invented at Cambridge University to monitor a coffee pot? Imagine if it was for a cat cam instead!"
+  },
+  {
+    "id": "tip_022", "category": "fun_fact",
+    "text": "A group of cats is called a 'clowder' or a 'pounce'. A group of hackers using Meow-tasploit is called 'The Unblinking Stare of Justice'!"
+  },
+  {
+    "id": "tip_023", "category": "ppp_usage",
+    "text": "The 'combine_files' command can consolidate your notes and logs into one master purr-chment for easier review."
+  },
+  {
+    "id": "tip_024", "category": "cybersec",
+    "text": "Incident response is like a cat always landing on its feet. Be prepared, be agile, and learn from every tumble!"
+  },
+  {
+    "id": "tip_025", "category": "fun_fact",
+    "text": "The term 'computer bug' might have originated from an actual moth found in a relay. Cats are much better at finding those kinds of bugs!"
+  },
+  {
+    "id": "tip_026", "category": "ppp_usage",
+    "text": "Don't forget the 'lore' command (if implemented)! Knowing the story behind Meow-tasploit makes you part of the legend."
+  },
+  {
+    "id": "tip_027", "category": "cybersec",
+    "text": "Least privilege principle: Give users (and cats) only the access they absolutely need. No keys to the entire catnip stash!"
+  },
+  {
+    "id": "tip_028", "category": "ppp_usage",
+    "text": "The 'Action Log' automatically tracks many operations, but 'log_action' is there for your own manual annotations and genius insights!"
+  },
+  {
+    "id": "tip_029", "category": "cybersec",
+    "text": "Keep your threat intelligence feeds fresh, like a daily bowl of premium tuna. Stale intel is no good!"
+  },
+  {
+    "id": "tip_030", "category": "fun_fact",
+    "text": "Cats can make over 100 different sounds, dogs only about 10. Meow-tasploit aims for that level of expressive feedback!"
+  }
+]

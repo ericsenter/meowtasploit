@@ -1,0 +1,123 @@
+{
+  "general": [
+    "Let's get this mission purr-fectly executed!",
+    "Time to pounce on this data!",
+    "Are you feline lucky about this scan?",
+    "No time for kitten around, let's work!",
+    "This CLI is the cat's meow, isn't it?",
+    "Ready to unleash some cyber-claws!",
+    "Let's make some purr-ogress!",
+    "What's the meow-sitch?",
+    "Stay paws-itive, we'll crack this!",
+    "Time to work my meow-gic!"
+  ],
+  "success": [
+    "Purr-fect! Another one bites the dust!",
+    "That was a paws-itively brilliant move!",
+    "We're not kitten around, that was a success!",
+    "Mission accomplished! High paw!",
+    "Nailed it! That's the purr-ower of PPP!",
+    "Cat-tastic! Everything went smoothly.",
+    "You're the cat's pajamas! Well done.",
+    "Absolutely meow-velous result!"
+  ],
+  "error": [
+    "Cat-astrophe! Something's gone sideways.",
+    "Looks like a hairball in the system.",
+    "Well, this is a bit hawk-ward... I mean, cat-ward.",
+    "Hiss-fit! An error occurred.",
+    "Whoops! Did a cat walk over the keyboard?",
+    "This is a fur-midable problem.",
+    "My tail is twitching... something's not right.",
+    "Me-ouch! That didn't go as planned."
+  ],
+  "file_operations": [
+    "Herding these files like kittens.",
+    "Let's cat-alogue this data neatly.",
+    "Digging through the digital litter box for that file...",
+    "Saving this file, safe and sound in its scratch-post.",
+    "Is this file purr-manent?",
+    "File combined! It's a real fur-ball of data now.",
+    "Archiving these files with purr-ecision."
+  ],
+  "networking": [
+    "Sniffing the network like a curious cat.",
+    "Are there any open purr-ts?",
+    "Let's see if we can tunnel through this like a playful ferret... I mean cat!",
+    "Pinging that host... hope it's not playing cat and mouse.",
+    "This firewall is being a bit of a copycat, blocking everything!",
+    "Scanning for vulnerable mews-chines.",
+    "Establishing a connection... hope it's not a fur-tile attempt."
+  ],
+  "findings_insights": [
+    "Another clue for the Meow-sive collection!",
+    "This finding is particularly purr-tinent.",
+    "Let's follow this data-scent.",
+    "Uncovering secrets, one paw print at a time.",
+    "This insight is the cat's whiskers!",
+    "Aha! A new breadcrumb on the trail... or should I say, a new catnip leaf?",
+    "That's a purr-etty interesting find!"
+  ],
+  "project_management": [
+    "Loading purr-oject: {project_name}. Let the hunt begin!",
+    "This purr-oject is my favorite place to nap... I mean, work!",
+    "Creating a new territory: Purr-oject {project_name}.",
+    "Switching hunting grounds to {project_name}.",
+    "Current purr-oject status: Ready to pounce!",
+    "This project is looking purr-ty good."
+  ],
+  "user_input": [
+    "Awaiting your purr-ameters...",
+    "What's your command, oh wise Meow-ster?",
+    "Feed me data, human!",
+    "Ready for your next meow-ssage.",
+    "Your wish is my command... within purr-eason.",
+    "Lay it on me, I'm all ears (and whiskers)!"
+  ],
+  "warnings": [
+    "Hold your whiskers, something needs attention!",
+    "A little bird (or maybe a cat?) told me to warn you...",
+    "Tread lightly, like a cat on a hot tin roof.",
+    "Are your claws sharpened for this?",
+    "Better check this twice, like a cat stalking its prey.",
+    "I've got a feline this might be tricky."
+  ],
+  "tools_integrations": [
+    "Unleashing the {tool_name} hounds... I mean, cats!",
+    "Let {tool_name} do the mousing around.",
+    "Integrating with {tool_name} - this is going to be purr-etty cool.",
+    "The Meow-tasploit framework embraces all its furry tool-friends.",
+    "Time to add another tool to our cat-che of weapons."
+  ],
+  "cybersecurity_general": [
+    "Phishing attempts? More like catfishing!",
+    "Zero-day? Sounds like a surprise catnap opportunity!",
+    "Stealth mode: activated. Like a ninja cat.",
+    "Leaving no paw prints behind.",
+    "This system has more backdoors than a cat flap emporium!",
+    "Time to play a game of cat and mouse with these vulns."
+  ],
+  "goodbye_exit": [
+    "Time for a catnap. See you later, investigator!",
+    "All systems purr-ged. Goodbye!",
+    "Meow-t for now!",
+    "Gone phishing for compliments. Be back soon!",
+    "This cat's gotta scat. Farewell!",
+    "Stay pawsitive out there!"
+  ],
+  "help_lore": [
+    "Need a paw? The help command is your best friend.",
+    "Curiosity didn't kill this cat, it made it a better hacker!",
+    "Welcome to the Meow-tasploit initiative, where every day is Caturday.",
+    "Remember, with great purr-ower comes great responsibility.",
+    "Learn the lore, become the legend.",
+    "Consult the ancient scrolls... or just type 'help'."
+  ],
+  "startup": [
+    "Ready to pounce on some data!",
+    "Let the cyber-shenanigans begin!",
+    "The Meow-tasploit framework is online and purring.",
+    "All systems go! Time to hunt.",
+    "Welcome back, chief mouser!"
+  ]
+}
