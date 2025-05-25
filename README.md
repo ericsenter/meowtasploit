@@ -1,4 +1,3 @@
-# meow-tasploit
 # Meow-tasploit (formerly PurrfectPurpleProcessor)
 
 [![License](https://img.shields.io/badge/License-To%20Be%20Determined-blue.svg)](https://opensource.org/licenses/alphabetical) **(ニャンとも素晴らしいハッキングの時間だ！- It's time for some purr-fectly awesome hacking!)**
